@@ -1,0 +1,11 @@
+name: FlooNetwork
+version: ${project.version}
+main: me.danieli1818.floo_network.FlooNetwork
+authors: [DanielRottner]
+description: Floo Network Plugin For The Floo Network.
+api-version: 1.16
+depend: [WorldEdit]
+
+commands:
+    floonetwork:
+        description: shows help page.
